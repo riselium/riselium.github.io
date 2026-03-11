@@ -3,5 +3,10 @@
   <url>
     <loc>https://riselium.github.io/</loc>
   </url>
-  <!-- Add more pages if any -->
+  <url>
+    <loc>https://riselium.github.io/about.html</loc>
+  </url>
+  <url>
+    <loc>https://riselium.github.io/contact.html</loc>
+  </url>
 </urlset>
